@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.container1{
+    width: Fill(1440px);
+  height: 1292px;
+  gap: 0px;
+  opacity: 0px;
+  
+    /* Adjust the gradient position as needed */
+    background: radial-gradient(50% 50% at 30% 30%, rgba(158, 110, 230, 0.28) 0%, rgba(158, 110, 230, 0) 100%);
+    color: #fff;
+    overflow: hidden;
+  }
+  .navbar{
+    width: Fill (1,440px)px;
+  height: Fixed (72px)px;
+  padding: 16px 64px 16px 64px;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  border-bottom: 1px solid;
+  
+  border-image-source: linear-gradient(90deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.02) 100%);
+  
+  background: rgba(0, 0, 0, 0.6);
+  
+  }
+  .navitem a{
+    width: Hug (280px)px;
+  height: Hug (26.5px)px;
+  padding: 2px 0px 0px 0px;
+  gap: 32px;
+  opacity: 0px;
+  
+  }
+
+  .section1-container1{
+    position: relative;
+  width: Fixed (660px)px;
+height: Hug (494.5px)px;
+top: 127.58px;
+left: 50.54px;
+gap: 64px;
+opacity: 0px;
+
+  }
+  .section1-container2{
+    width: Hug (633.82px)px;
+height: Hug (740.48px)px;
+top: -93.45px;
+left: 130.82px;
+gap: 49px;
+opacity: 0px;
+position: relative;
+  }
+
+  .section1-container1-heading{
+    font-family: Outfit;
+font-size: 48px;
+font-weight: 500;
+line-height: 59px;
+text-align: left;
+background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.5) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  }
+  .section1-container1-text{
+    width: 660px;
+height: 80px;
+gap: 0px;
+opacity: 0px;
+font-family: Outfit;
+font-size: 24px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+background: #FFFFFFCC;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+  }
+
+  .section1-container1-button{
+    width: 190px;
+height: 64px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+gap: 0px;
+opacity: 0px;
+
+  }
+
+  
